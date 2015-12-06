@@ -71,11 +71,10 @@ if (FALSE)
   
   # Define the Twitter API Keys
   # Get these from https://apps.twitter.com/
-  api_key <- 'vN4lvsrAq2rkQAIDDiAe0OaVu'
-  api_secret <- '3I4iGc0RKcIwkFejLuO1Rx6r9zInQFPtCHa7eoiCSGmTwdHNTC'
-  access_key <- '103626328-eCvFK5mYN08VrsRJIb5f1OzgVF3OcGasjrhIqYGU'
-  access_token <- 'TMVL3aG2xxi9vCtCnIwUm7fWW5x0HMbQEOrGYtyF7BtNV'
-  # STEP 1: Configure location for bag of words
+  api_key <- 'your_consumer_key'
+  api_secret <- 'your_consumer_secret'
+  access_key <- 'your_access_token'
+  access_token <- 'your_access_token_secret(despite_the_name)'
   
   # These are your "Bag of Words".
   # Example list from: https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#lexicon

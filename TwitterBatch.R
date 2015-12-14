@@ -39,10 +39,10 @@ score.sentence <- function(sentence, pos.words, neg.words) {
 
 # Define the Twitter API Keys
 # Get these from https://apps.twitter.com/
-api_key <- '2LzqUNbWJCO2ulJZ59mdq6eIG'
-api_secret <- 'Xkluhn6TyRdV5rlHmS1jnQopKmbZiqsFiEnvXZ7Elzmx5LErJs'
-access_key <- '103626328-U8xeaAkwMND94SpUuHDMIo9gvDruKi5kxKIFUGaf'
-access_token <- 'D3bDA27oaYNEW1ttNDm76ygptmy912TYSI6eNhuylS05v'
+api_key <- 'your_consumer_key'
+api_secret <- 'your_consumer_secret'
+access_key <- 'your_access_token'
+access_token <- 'your_access_token_secret(despite_the_name)'
 
 # These are your "Bag of Words".
 # Example list from: https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#lexicon
